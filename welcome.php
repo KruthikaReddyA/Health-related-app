@@ -61,7 +61,7 @@ if (!isset($_SESSION["user_id"])) {
         <p>Welcome, <?php echo $_SESSION["user_name"]; ?>!</p>
         <p>Your email address is: <?php echo $_SESSION["user_email"]; ?></p>
         <!-- Home button -->
-        <a href="homepage.php" class="home-button">Home</a>
+        <a href="home.php" class="home-button">Home</a>
     </div>
 </body>
 </html>

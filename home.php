@@ -200,7 +200,7 @@
 
 
     function diet() {
-        window.location.href ="dietplan.php";
+        window.location.href ="diet.php";
     }
     function resources() {
         window.location.href ="resources.php";
